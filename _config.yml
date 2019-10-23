@@ -20,7 +20,7 @@ exclude:
 - Gemfile.lock
 
 # Site settings
-baseurl: "/""
+baseurl: "/"
 title: "Omar Gloistein Div III"
 description: "My Division III portfolio"
 permalink: pretty
