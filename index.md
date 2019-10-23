@@ -1,6 +1,7 @@
 ---
 layout: blog
 title: Blog
+permalink: /
 collectionpage: posts 
 
 ---
