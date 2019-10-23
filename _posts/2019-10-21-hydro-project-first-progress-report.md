@@ -1,5 +1,7 @@
 ---
 layout: post
+categories:
+- Hydroponics
 title:  "Hydroponics Project - First Progress Report"
 feature_image: "/assets/hydro-frame-rough-assembly.jpg"
 ---

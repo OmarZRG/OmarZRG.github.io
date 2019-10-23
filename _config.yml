@@ -39,6 +39,8 @@ paginate_path: blog/page:num
 navigation_header:
 - title: Blog
   url: /
+- title: Categories
+  url: /categories/
 - title: About
   url: /about/
 
@@ -46,5 +48,3 @@ navigation_header:
 navigation_footer:
 - title: Back to top
   url: "#top"
-
-
