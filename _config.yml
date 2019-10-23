@@ -31,10 +31,6 @@ collections:
     output: true
     description: "My thoughts and ideas"
 
-# Pagination
-paginate: 5
-paginate_path: "blog/page:num"
-
 # Header nav
 navigation_header:
 - title: "Blog"
@@ -47,4 +43,4 @@ navigation_header:
 # Footer nav
 navigation_footer:
 - title: "Back to top"
- url: "#top"
+  url: "#top"
