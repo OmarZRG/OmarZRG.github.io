@@ -24,6 +24,7 @@ baseurl: ''
 title: 'Omar Gloistein Div III'
 description: 'My Division III portfolio'
 permalink: pretty
+timezone: America/New_York
 
 collections:
   posts:
