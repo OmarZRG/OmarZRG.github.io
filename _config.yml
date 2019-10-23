@@ -20,9 +20,9 @@ plugins:
 - jekyll-remote-theme
 
 # Site settings
-baseurl: ''
-title: 'Omar Gloistein Div III'
-description: 'My Division III portfolio'
+baseurl: "/""
+title: "Omar Gloistein Div III"
+description: "My Division III portfolio"
 permalink: pretty
 timezone: America/New_York
 
