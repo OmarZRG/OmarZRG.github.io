@@ -2,6 +2,6 @@
 title: Categories
 permalink: /categories/
 layout: categories
-excerpt: "Category index"
+excerpt: Category index
 aside: true
 ---
