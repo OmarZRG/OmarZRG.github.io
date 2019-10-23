@@ -25,6 +25,12 @@ title: 'Omar Gloistein Div III'
 description: 'My Division III portfolio'
 permalink: pretty
 
+collections:
+  posts:
+    title: Posts # Needed for Siteleaf
+    output: true
+    description: "My thoughts and ideas"
+
 # Pagination
 paginate: 5
 paginate_path: blog/page:num
