@@ -4,4 +4,4 @@ title: "About"
 permalink: "/about/"
 ---
 
-Omar Gloistein's Div III portfolio
+This is where I'll be writing and revising a description of my Division III focus.
