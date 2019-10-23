@@ -1,7 +1,8 @@
 ---
 layout: blog
+title: Blog
 collectionpage: posts 
-title: "Blog"
+
 ---
 
 This is where I will be posting my Division III-related works in progress.
