@@ -11,7 +11,7 @@ plugins:
 - jekyll-remote-theme
 
 # Set theme
-remote_theme: daviddarnes/alembic
+remote_theme: "daviddarnes/alembic"
 
 # File excludes
 exclude:
@@ -27,7 +27,7 @@ timezone: America/New_York
 
 collections:
   posts:
-    title: Posts # Needed for Siteleaf
+    title: "Posts" # Needed for Siteleaf
     output: true
     description: "My thoughts and ideas"
 
@@ -37,14 +37,14 @@ paginate_path: "blog/page:num"
 
 # Header nav
 navigation_header:
-- title: Blog
-  url: /
-- title: Categories
-  url: /categories/
-- title: About
-  url: /about/
+- title: "Blog"
+  url: "/"
+- title: "Categories"
+  url: "/categories/"
+- title: "About"
+  url: "/about/"
 
 # Footer nav
 navigation_footer:
-- title: Back to top
+- title: "Back to top"
  url: "#top"
