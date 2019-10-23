@@ -27,10 +27,10 @@ permalink: pretty
 timezone: America/New_York
 
 collections:
-  posts:
-    title: Posts # Needed for Siteleaf
-    output: true
-    description: "My thoughts and ideas"
+ posts:
+   title: Posts # Needed for Siteleaf
+   output: true
+   description: "My thoughts and ideas"
 
 # Pagination
 paginate: 5
@@ -48,4 +48,4 @@ navigation_header:
 # Footer nav
 navigation_footer:
 - title: Back to top
-  url: "#top"
+ url: "#top"
