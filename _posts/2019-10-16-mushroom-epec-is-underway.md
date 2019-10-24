@@ -12,4 +12,4 @@ Over the last few weeks, I've been coordinating an extracurricular workshop-styl
 
 As we continue our cultivation process, we'll be working on renovating the mushroom greenhouse that I built last year and constructing at least one more small greenhouse to enable us to establish multiple fruiting climates. We'll also be deciding on some simple experiments to conduct with substrate mixtures and other cultivation parameters as we attempt to grow our more exotic species.
 
-{% include figure.html image="/assets/culture-library.jpg" caption="My drawer of mushroom cultures" position="center" %}
+{% include figure.html image="/assets/culture-library.jpg" caption="My drawer of mushroom cultures" position="left" %}
