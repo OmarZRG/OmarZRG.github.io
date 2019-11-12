@@ -35,6 +35,8 @@ collections:
 navigation_header:
 - title: "Blog"
   url: "/"
+- title: "Resources"
+  url: "/resources/"
 - title: "Categories"
   url: "/categories/"
 - title: "About"
